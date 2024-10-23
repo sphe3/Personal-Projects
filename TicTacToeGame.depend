@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1725366678 source:c:\users\khosa\onedrive\desktop\tictactoegame\main.cpp
+	"TicTacToe.h"
+	<cctype>
+
+1725366582 source:c:\users\khosa\onedrive\desktop\tictactoegame\tictactoe.cpp
+	"TicTacToe.h"
+
+1725318862 c:\users\khosa\onedrive\desktop\tictactoegame\tictactoe.h
+	<iostream>
+	"LibTicTacToe.h"
+
+1725318440 c:\users\khosa\onedrive\desktop\tictactoegame\libtictactoe.h
+
